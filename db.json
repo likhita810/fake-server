@@ -1,0 +1,207 @@
+{
+  "userCredentials": [
+    {
+      "id": "3ca9",
+      "username": "roshni",
+      "role": "hr",
+      "password": "12345"
+    },
+    {
+      "id": "59bd",
+      "username": "devki",
+      "role": "manager",
+      "password": "1976"
+    },
+    {
+      "id": "c243",
+      "username": "akhil",
+      "role": "gm",
+      "password": "1428"
+    },
+    {
+      "id": "5bcd",
+      "username": "divya",
+      "role": "ta",
+      "password": "8765"
+    },
+    {
+      "id": "17a3",
+      "username": "santhosh",
+      "role": "tl",
+      "password": "7654"
+    },
+    {
+      "id": "72ed",
+      "username": "",
+      "uno": "",
+      "password": ""
+    },
+    {
+      "id": "9e15",
+      "username": "",
+      "uno": "",
+      "password": ""
+    },
+    {
+      "id": "5d76",
+      "username": "Ram Charan",
+      "uno": "823748987",
+      "password": "123"
+    },
+    {
+      "id": "65dc",
+      "username": "",
+      "uno": "",
+      "password": ""
+    }
+  ],
+  "adminCredentials": [
+    {
+      "username": "likhita",
+      "role": "sed L-1",
+      "password": "1234",
+      "id": "9c80"
+    },
+    {
+      "id": "f73d",
+      "username": "lokesh",
+      "uno": "767889",
+      "password": "8765"
+    },
+    {
+      "username": "pavan",
+      "role": "sed L-1",
+      "password": "4567",
+      "id": "685c"
+    },
+    {
+      "username": "anil",
+      "role": "sed L-1",
+      "password": "7890",
+      "id": "a95a"
+    },
+    {
+      "username": "naresh",
+      "role": "sed L-1",
+      "password": "0912",
+      "id": "b20b"
+    },
+    {
+      "id": "e892",
+      "username": "shruthi",
+      "uno": "9876543321",
+      "password": "123987"
+    },
+    {
+      "id": "906b",
+      "username": "",
+      "uno": "",
+      "password": ""
+    }
+  ],
+  "ticketDetails": [
+    {
+      "ticketIssue": "Password reset requests",
+      "priority": 2,
+      "status": true,
+      "trise": "10:30",
+      "tsolve": "",
+      "id": "d7cb"
+    },
+    {
+      "ticketIssue": "Software installation/update errors",
+      "priority": 3,
+      "status": false,
+      "trise": "11:30",
+      "tsolve": "",
+      "id": "4e9c"
+    },
+    {
+      "ticketIssue": "Connectivity issues",
+      "priority": 5,
+      "status": true,
+      "trise": "12:30",
+      "tsolve": "",
+      "id": "bc25"
+    },
+    {
+      "ticketIssue": "Inability to log into an email server ",
+      "priority": 1,
+      "status": false,
+      "trise": "1:30",
+      "tsolve": "",
+      "id": "7338"
+    },
+    {
+      "ticketIssue": "Clearly define requirements for each shared resource",
+      "priority": 2,
+      "status": true,
+      "trise": "12:30",
+      "tsolve": "",
+      "id": "b6de"
+    },
+    {
+      "ticketIssue": " Software bug reports",
+      "priority": 5,
+      "status": true,
+      "trise": "22:30",
+      "tsolve": "",
+      "id": "bf7a"
+    },
+    {
+      "ticketIssue": "Device onboarding and configuration challenges",
+      "priority": 2,
+      "status": false,
+      "trise": "10:30",
+      "tsolve": "",
+      "id": "2ed8"
+    },
+    {
+      "ticketIssue": "License and subscription management",
+      "priority": 2,
+      "status": false,
+      "trise": "13:30",
+      "tsolve": "",
+      "id": "c2b9"
+    },
+    {
+      "ticketIssue": "Data loss or retrieval requests",
+      "priority": 5,
+      "status": true,
+      "trise": "23:00",
+      "tsolve": "",
+      "id": "6153"
+    },
+    {
+      "ticketIssue": "Server errors that prevent users from sending and receiving emails",
+      "priority": 1,
+      "status": true,
+      "trise": "14:00",
+      "tsolve": "",
+      "id": "1aa8"
+    },
+    {
+      "ticketIssue": "Compromised email accounts due to hacks, excessive spam, or phishing attempts",
+      "priority": 1,
+      "status": true,
+      "trise": "14:10",
+      "tsolve": "",
+      "id": "9188"
+    },
+    {
+      "ticketIssue": "Assign users specific permissions based on their roles and responsibilities",
+      "priority": 4,
+      "status": false,
+      "trise": "15:20",
+      "tsolve": "",
+      "id": "b3ea"
+    },
+    {
+      "id": "9189",
+      "ticketIssue": "tickets issue",
+      "priority": "2",
+      "trise": "12:57",
+      "status": false
+    }
+  ]
+}
